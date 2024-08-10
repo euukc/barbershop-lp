@@ -1,4 +1,4 @@
-export default function Header(){
+export default function Header() {
     return (
         <section className="w-full h-[80px] bg-transparent flex items-center absolute mt-[20px]">
             <div className="w-[33%] text-center text-[30px]">
